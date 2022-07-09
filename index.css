@@ -1,0 +1,176 @@
+body
+{
+    color:#666666;
+    background-color: #f5f6f6;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+header
+{
+    display: block;
+}
+.header{
+    width: 100%;
+    padding: 30px 30px;
+    background: transparent;
+    position: absolute;
+    z-index: 999;
+}
+.container{
+    width: 95%;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: right;
+}
+.row
+{
+    display: flex;
+}
+.logo
+{
+    max-width: 25%;
+}
+.logo1
+{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.rrow
+{
+    float: right;
+    max-width: 75%;
+    padding-left: 300px;
+}
+nav
+{
+    float: right;
+}
+.nav_bar
+{
+    border-radius:64px;
+    background: #fff;
+    float: right;
+    padding: 10px 10px;
+}
+.ul_nav
+{
+    display: flex;
+    list-style: none;
+}
+li ul
+{
+    list-style: none;
+    padding-right: 20px;
+}
+.row_li
+{
+    margin-left: 20px;
+}
+.navbar_li
+{
+    display: flex;
+    margin-right: 20px;
+    margin-left: -30px;
+}
+.nav_link
+{
+    padding: 0 15px;
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 500;
+    display: block;
+    color: #070404;
+}
+a
+{
+    text-decoration: none;
+}
+.banner_main
+{
+    padding: 198px 0px 90px 0px;
+    background:#f5f6f6;
+    display: block;
+}
+.blue
+{
+    color: #03cafc;
+    text-align: center;
+    text-transform: initial;
+}
+.h1_div
+{
+    padding-bottom: 20px ;
+}
+.image_center
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1
+{
+    font-size: 48px;
+}
+.btn
+{
+    padding: 20px 80px 20px 80px;
+    border-radius: 20px;
+    background: #03cafc;
+}
+.about
+{
+    background: #fff;
+    margin-bottom: #000 solid 1px;
+}
+.continer 
+{
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+.img_disp
+{
+    max-width: 40%;
+}
+.text_disp
+{
+    max-width: 59%;
+}
+.border_disp
+{
+    border: #000 solid 1px;
+    padding:0px 40px 40px 40px;
+    margin-top: 150px;
+
+}
+.img-d
+{
+    height: 300px;
+    width: 350px;
+    padding-top: 150px;
+    padding-right: 120px;
+}
+p
+{
+    line-height: 25px;
+}
+.btn2
+{
+    margin-top: 80px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.img-div
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
