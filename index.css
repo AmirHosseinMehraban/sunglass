@@ -111,6 +111,7 @@ a
 h1
 {
     font-size: 48px;
+    text-align: center;
 }
 .btn
 {
@@ -121,7 +122,8 @@ h1
 .about
 {
     background: #fff;
-    margin-bottom: #000 solid 1px;
+    border-bottom: #000 solid 1px;
+    
 }
 .continer 
 {
@@ -173,4 +175,55 @@ a
 {
     text-decoration: none;
     color: black;
+}
+.glasses
+{
+    background: #fff;
+    margin-top: -32px;
+}
+.h1-glass
+{
+    padding-top: 50px;
+    text-align: center;
+    color: #000;
+}
+.continer-glass 
+{
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    background: #fff;
+}
+.div-glass
+{
+    background: #fff;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: -15px;
+
+}
+.row-glass
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row-glass-image
+{
+    width: 24%;
+}
+.row-border
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:20px;
+    margin-left:20px;
+    border: #555556 solid 1px;
+}
+.img-c
+{
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
 }
